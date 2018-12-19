@@ -1,6 +1,6 @@
 # ssmServer
-> #### 基于mybatis+spring+spring mvc+springfox(swagger)架构的服务接口后端
-> ###### 所用技术
+* ### 基于mybatis+spring+spring mvc+springfox(swagger)架构的服务接口后端
+> #### 所用技术
 spring
 springmvc
 mybatis
