@@ -9,7 +9,8 @@ spring Fox: 生成API在线文档
 开发工具：Intellij IDEA
 数据库：MySQL
 
-![ssmServer_bd_show1.png](https://raw.githubusercontent.com/caojiele/caojiele.github.io/master/img-folder/ssmServer/imp-show/ssmServer_bd_show1.png)
+![ssmServer_bd_show1.png](https://raw.githubusercontent.com/caojiele/make_wheel/master/img-folder/ssmServer_bd_show1.png)
 
-![ssmServer_bd_show2.png](https://raw.githubusercontent.com/caojiele/caojiele.github.io/master/img-folder/ssmServer/imp-show/ssmServer_bd_show2.png)
+![ssmServer_bd_show2.png](https://raw.githubusercontent.com/caojiele/make_wheel/master/img-folder/ssmServer_bd_show2.png)
+
 
