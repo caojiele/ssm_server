@@ -1,7 +1,7 @@
 # ssmServer
 ### 基于mybatis+spring+spring mvc+springfox(swagger)架构的服务接口后端
 > #### 所用技术
-spring
+* spring
 * springmvc
 * mybatis
 * spring Fox: 生成API在线文档
